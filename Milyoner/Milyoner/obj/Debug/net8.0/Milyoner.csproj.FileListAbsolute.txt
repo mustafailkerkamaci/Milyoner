@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\Milyoner\Milyoner\bin\Debug\net8.0\Milyoner.exe
+C:\Users\musta\source\repos\Milyoner\Milyoner\bin\Debug\net8.0\Milyoner.deps.json
+C:\Users\musta\source\repos\Milyoner\Milyoner\bin\Debug\net8.0\Milyoner.runtimeconfig.json
+C:\Users\musta\source\repos\Milyoner\Milyoner\bin\Debug\net8.0\Milyoner.dll
+C:\Users\musta\source\repos\Milyoner\Milyoner\bin\Debug\net8.0\Milyoner.pdb
+C:\Users\musta\source\repos\Milyoner\Milyoner\obj\Debug\net8.0\Milyoner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\Milyoner\Milyoner\obj\Debug\net8.0\Milyoner.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\Milyoner\Milyoner\obj\Debug\net8.0\Milyoner.AssemblyInfo.cs
+C:\Users\musta\source\repos\Milyoner\Milyoner\obj\Debug\net8.0\Milyoner.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\Milyoner\Milyoner\obj\Debug\net8.0\Milyoner.sourcelink.json
+C:\Users\musta\source\repos\Milyoner\Milyoner\obj\Debug\net8.0\Milyoner.dll
+C:\Users\musta\source\repos\Milyoner\Milyoner\obj\Debug\net8.0\refint\Milyoner.dll
+C:\Users\musta\source\repos\Milyoner\Milyoner\obj\Debug\net8.0\Milyoner.pdb
+C:\Users\musta\source\repos\Milyoner\Milyoner\obj\Debug\net8.0\Milyoner.genruntimeconfig.cache
+C:\Users\musta\source\repos\Milyoner\Milyoner\obj\Debug\net8.0\ref\Milyoner.dll
